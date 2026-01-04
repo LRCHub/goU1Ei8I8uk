@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "帰ろう",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-01-04T13:24:56.850791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "帰ろう",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_帰ろう_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "帰ろう レッツゴー!",
+      "artist": "つばきファクトリー",
+      "has_synced": false,
+      "path": "select/02_帰ろう_レッツゴー!_つばきファクトリー.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_帰ろう_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_帰ろう_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_帰ろう_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_帰ろう_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_帰ろう_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_06_帰ろう_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_07_帰ろう_藤井_風.txt"
+    }
+  ]
+}
