@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "帰ろう",
   "base_artist": "Fujii Kaze",
-  "createdAt": "2026-02-22T16:09:49.596538Z",
+  "createdAt": "2026-03-05T13:23:34.771428Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,14 @@
       "artist": "藤井風",
       "has_synced": true,
       "path": "select/03_帰ろう_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "帰ろう",
+      "artist": "Fujii Kaze (藤井風)",
+      "has_synced": true,
+      "path": "select/04_帰ろう_Fujii_Kaze_(藤井風).lrc"
     },
     {
       "id": "petitlyrics_1",
